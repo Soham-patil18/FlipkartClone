@@ -42,7 +42,7 @@ It demonstrates proficiency in **HTML structure**, **CSS Flexbox layouts**, and 
 
 ## 📂 Folder Structure  
 
-```
+``` 
 FlipkartClone/
 ├── index.html
 ├── style.css
